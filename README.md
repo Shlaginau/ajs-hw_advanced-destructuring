@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/684tph1fgqaj64ut?svg=true)](https://ci.appveyor.com/project/Shlaginau/ajs-hw-advanced-destructuring)
 
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
